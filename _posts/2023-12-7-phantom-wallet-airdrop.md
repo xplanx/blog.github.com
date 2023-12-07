@@ -14,7 +14,7 @@ in the past we have seen Wallet Airdrops Like Safepall($SFP) TrustWallet($TWT) t
 now we Look at Phantom Wallet Solana OG wallet but now its MultiChain on Ethereum and Polygon 
 You Know with Falling FTX most of FTX venture Portfolio going to Down with it but FTX or  never do not invested in Phantom Wallet!
 
-## They Raised $118 M Leading Paradigm and a16z 
+## They Raised $118 M Lead Paradigm and a16z 
 -
 ![image](https://github.com/0xflutter/blog.github.com/assets/76862881/09a01fef-74ce-4f34-abe8-ac9e2448270d)
 
