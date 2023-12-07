@@ -2,7 +2,7 @@
 layout: post
 title: Phantom Wallet - Airdrop Strategy
 subtitle: How To Get Phantom Wallet Airdrop
-cover-img: /assets/img/phantom.png
+cover-img: /assets/img/Phantom-Icon_Transparent_Black.png
 thumbnail-img: /assets/img/Phantom-Icon_Square_512x512.png
 share-img: /assets/img/phantom.png
 tags: [airdrops, phantom]
