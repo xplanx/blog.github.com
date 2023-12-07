@@ -24,7 +24,7 @@ Strategy For Phantom Wallet :
 
 install Phantom Wallet: https://phantom.app/download
 
-you can mint nft , transfer asset with wallet
+ #### you can mint nft , transfer asset with wallet
 but newest option for  Phantom wallet is crosschain swap between blockchain to solana 
 Read article : https://phantom.app/learn/blog/cross-chain-swapper
 
