@@ -5,7 +5,7 @@ subtitle: How To Get Phantom Wallet Airdrop
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/phantom
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [airdrops, phantom]
 ---
 
 Phantom Wallet Have Potenial For Airdrop !
