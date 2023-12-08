@@ -72,7 +72,7 @@ is not just native on zksync but it connected Uniswap liquidity to zksync ecosys
 
 #### For oku.trade Airdrop
 
-you can trade on it ( make more than $1000 volume on it ) 
+you can trade on it ( make more than $1000 volume on it ) [LINK](https://oku.trade/app/zksync/swap)
 
 
 ##### Thanks for Reading this - 0xflutter
