@@ -13,6 +13,8 @@ but what about zksync ecosystem?
 
 ## 3 Perpetual exchanges on zksync with potential Airdrop!
 
+</br>
+
 ### 1. Derivio 
 
 Derivio seeks to unlock the full potential of DEXs and revolutionize how users engage with DeFi derivatives - by creating an experience that surpasses present-day CEX functionality.
