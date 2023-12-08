@@ -28,7 +28,7 @@ install Phantom Wallet:
 you can mint nft , transfer asset with wallet
 but newest option for  Phantom wallet is crosschain swap between blockchain to solana 
 Read article :
-	[swapper]([https://www.example.com](https://phantom.app/learn/blog/cross-chain-swapper)
+	[swapper article](https://phantom.app/learn/blog/cross-chain-swapper)
 
 
 ## swap on solana,polygon or Ethereum 
