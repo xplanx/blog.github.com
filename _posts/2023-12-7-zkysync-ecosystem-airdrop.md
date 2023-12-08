@@ -18,13 +18,11 @@ but what about zksync ecosystem?
 ### 1. Derivio 
 [Twitter(X)](https://x.com/derivio_xyz)
 
-
-Derivio seeks to unlock the full potential of DEXs and revolutionize how users engage with DeFi derivatives - by creating an experience that surpasses present-day CEX functionality.
-
 ![Derivio](https://pbs.twimg.com/profile_banners/1512979915922096131/1695723439/1080x360)
+#### Derivio seeks to unlock the full potential of DEXs and revolutionize how users engage with DeFi derivatives - by creating an experience that surpasses present-day CEX functionality.
 
 
-#### Derivio is Native Project on Zksync , its one of best projects of Binance Labs demo day , and Binance is one of accelerator it
+ Derivio is Native Project on Zksync , its one of best projects of Binance Labs demo day , and Binance is one of accelerator it
 
 ### how we can interact with Derivio for Airdrop?
 
@@ -42,7 +40,7 @@ other features is stake on Derivio and claim LP Reward [Link](https://derivio.xy
 
 
 ### 2. GRVT
-
+[Twitter (X)](https://x.com/grvt_io)
 ![GRVT](https://pbs.twimg.com/profile_banners/1627802277473038338/1701854243/1080x360)
 
 #### GRVT is not a CEX or a DEX – is a HEX, a hybrid exchange
@@ -55,3 +53,28 @@ other features is stake on Derivio and claim LP Reward [Link](https://derivio.xy
 💨 Offer gas-less trading
 
 #### GRVT Raised $7.1M 
+[![GRVT fund](https://i.postimg.cc/prddVs68/Screenshot-2023-12-08-20-38-59-618-edit-com-android-chrome.jpg)](https://postimg.cc/8JqGtmDP)
+
+For GRVT Airdrop for now you can join tasks and get point [link](https://grvt.io/exchange/sign-up?ref=3YT7DWV)
+
+GRVT Platform is not live yet on Mainnet, just you can join to campaign
+Maybe points will be token in future...
+
+
+### 3. OKU.TRADE
+[Twitter(X)](https://x.com/okutrade)
+![OKU TRADE](https://pbs.twimg.com/profile_banners/1588206858833125382/1688760738/1080x360)
+
+OKU Powered by Uniswap V3
+Oku is a frontend for the Uniswap v3 protocol that aims to transform the traditional trading experience in the DeFi ecosystem. As a project initially funded by the Uniswap Foundation
+
+is not just native on zksync but it connected Uniswap liquidity to zksync ecosystem, its Available on multiple chains and equipped with advanced trading features like limit orders, order books, price charts, and user order history, Oku offers a substantially improved trading experience for users.
+
+#### For oku.trade Airdrop
+
+you can trade on it ( make more than $1000 volume on it ) 
+
+
+##### Thanks for Reading this - 0xflutter
+
+
