@@ -23,12 +23,13 @@ You Know with Falling FTX most of FTX venture Portfolio going to Down with it bu
 Strategy For Phantom Wallet :
 
 install Phantom Wallet:
-https://phantom.app/download
+	[phantom wallet download](https://phantom.app/download)
 
 you can mint nft , transfer asset with wallet
 but newest option for  Phantom wallet is crosschain swap between blockchain to solana 
 Read article :
-https://phantom.app/learn/blog/cross-chain-swapper
+	[swapper]([https://www.example.com](https://phantom.app/learn/blog/cross-chain-swapper)
+
 
 ## swap on solana,polygon or Ethereum 
 
