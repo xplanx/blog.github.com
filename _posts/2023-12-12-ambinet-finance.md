@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ambient Finance - Airdrop Strategy one arrow and Two badges 🎯
-subtitle: How To Get Ambient Finance Airdrop
+subtitle: How To Get Ambient Airdrop
 cover-img: /assets/img/photo_2023-12-13_01-46-00.jpg
 thumbnail-img: /assets/img/eb1BN7ld_400x400.jpg
 share-img: /assets/img/photo_2023-12-13_01-45-39.jpg
